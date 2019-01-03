@@ -24,11 +24,11 @@ public class TwoDarrayPrimeno
 			{
 				if(arr[i][j]%2==0)
 				{
-					System.out.println("The Number is Prime");
+					System.out.println("The Number is Even");
 				}
 				else
 				{
-					System.out.println("The Number is Not Prime");
+					System.out.println("The Number is Odd");
 				}
 				 
 			}
